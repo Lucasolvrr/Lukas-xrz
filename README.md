@@ -10,11 +10,12 @@
   
   ##
 
-<div align="center">
-  <a href="https://github.com/Lukas-xrz">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lukas-xrz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-xrz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<a href="https://github.com/Lukas-xrz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukas-xrz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Lukas-xrz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukas-xrz&repo=convoychat" />
+</a>
   
   ## Tecnologias que eu uso atualmente:
   
