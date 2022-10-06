@@ -10,12 +10,7 @@
   
   ##
 
-<a href="https://github.com/Lukas-xrz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukas-xrz&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Lukas-xrz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukas-xrz&repo=Lukas-xrz" />
-</a>
+
   
   ## Tecnologias que eu uso atualmente:
   
