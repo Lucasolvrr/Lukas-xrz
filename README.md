@@ -3,25 +3,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+Nome+é+Lucas+de+Oliveira;Eu+tenho+19+anos+de+idade;Sou+Estudante+de+Ciência+da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=lukas-xrz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&theme=cobalt2" alt="Lukas-xrz github stats" /> 
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-xrz&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Lucasolvrr&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&theme=cobalt2" alt="Lucasolvrr github stats" /> 
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolvrr&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lukas-xrz&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lucasolvrr&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
 
 <div align="center"><br>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukas-xrz&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lukas-xrz&theme=github_dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasolvrr&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucasolvrr&theme=github_dark"/></td></tr>
   </table>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukas-xrz&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukas-xrz&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukas-xrz&theme=github_dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucasolvrr&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucasolvrr&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucasolvrr&theme=github_dark"/></td></tr>
   </table>
 </div>
 
